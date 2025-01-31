@@ -1,4 +1,4 @@
-project_name: "search_social_trends"
+project_name: "demo-extension-sdk"
 # project_name: "demo-extension-sdk"
 application: demo-extension-sdk {
   label: "Demo Extension SDK"
